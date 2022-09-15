@@ -1,0 +1,5 @@
+1. Solution for this Error: Migration admin.0001_initial is applied before its dependency users.0001_initial on database 'default: 
+https://stackoverflow.com/a/65310864
+
+2. Error when create new category item from admin 
+https://code.djangoproject.com/ticket/23297
